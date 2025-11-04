@@ -1,4 +1,4 @@
-# Test Técnico - Desarrollador Fullstack (Consulta UF)
+# Test técnico - Desarrollador Fullstack (Consulta UF)
 
 Solución al test técnico para el puesto de Desarrollador Fullstack. El proyecto es una aplicación web completa (Frontend y Backend) que permite a los usuarios consultar el valor de la UF (Unidad de Fomento) por fecha, consumiendo la API pública de `mindicador.cl`.
 
