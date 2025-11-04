@@ -1,0 +1,34 @@
+# ----------------------------------------
+# ARCHIVOS DE DEPENDENCIA 
+node_modules/
+
+# ----------------------------------------
+# SEGURIDAD 
+.env
+.env.local
+.env.development
+.env.production
+.env.*
+
+# ----------------------------------------
+# ARCHIVOS DE BUILD Y CACHÉ
+dist/
+build/
+.vite/
+coverage/
+
+# ----------------------------------------
+# LOGS
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ----------------------------------------
+# ARCHIVOS DE SISTEMA OPERATIVO
+.DS_Store
+Thumbs.db
+
+# ----------------------------------------
+# ARCHIVOS DE EDITOR/IDE
+.vscode/
+.idea/
